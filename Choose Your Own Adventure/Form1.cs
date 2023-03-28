@@ -13,6 +13,7 @@ using System.Security.Cryptography;
 //ICS3U
 //Monday, March 27, 2023
 // Choose your own adventure game about a sort of farming/town simulator
+//(not entirely finished)
 
 
 
